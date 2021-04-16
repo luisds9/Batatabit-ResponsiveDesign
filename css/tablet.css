@@ -1,0 +1,25 @@
+header {
+    height: 260px
+}
+.main-tables-container {
+    overflow-x: hidden;
+}
+.product-detail__cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 600px;
+    max-width: 750px;
+    margin: 0 auto;
+}
+.product-detail__card {
+    max-width: 300px;
+}
+.main-section__know-it-today--background-img {
+    background: url('../assets/imgs/bitcoinbaby2x.jpg') center/cover no-repeat;
+}
+.plans__cards-container--slider {
+    overflow-x: hidden;
+}
+footer {
+    height: 100px;
+}

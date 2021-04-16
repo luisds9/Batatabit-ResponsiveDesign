@@ -1,0 +1,37 @@
+header {
+    height: 150px;
+}
+header img {
+    margin-top: 20px;
+}
+.header__title-container {
+    margin-top: 10px;
+}
+.header__title-container p {
+    margin-top: 10px;
+}
+.main-exchange__top-container--media-desktop {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+}
+.main-exchange-container__title {
+    padding: 50px;
+}
+.plans__cards-container--slider {
+    justify-content: center;
+}
+footer .left-section {
+    justify-content: flex-start;
+    padding-left: 30px;
+}
+footer .left-section ul {
+    display: flex;
+}
+footer .left-section li {
+    padding-left: 10px;
+}
+footer .right-section {
+    justify-content: flex-end;
+    padding-right: 30px;
+}
